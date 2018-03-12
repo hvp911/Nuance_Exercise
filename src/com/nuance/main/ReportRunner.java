@@ -16,7 +16,7 @@ public class ReportRunner {
 		Scanner scanner = new Scanner(System.in);
 		String inputFileName = scanner.nextLine();
 		// String inputFileName =
-		// "C:\\Users\\hvp91\\workspace\\NuanceExcersice\\input\\inputtext.txt";
+		// "C:\\Users\\hvp91\\workspace\\Nuance_Exercise\\input\\inputtext.txt";
 		scanner.close();
 
 		try {
